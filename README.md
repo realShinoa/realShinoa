@@ -6,7 +6,7 @@ const junella = {
     pronouns: "she" | "her",
     askMeAbout: ["web dev", "tech", "gaming"],
         frontEnd: {
-            css: ["bootstrap"]
+                ['HTML', 'CSS', 'JavaScript', 'ReactJS', 'Boostrap']
         },
         backEnd: ["Java", "PHP"],
         databases: ["MySql", "oracle"],
