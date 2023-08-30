@@ -1,6 +1,7 @@
-[!realShinoa 🌱 <img align='right' src='[https://64.media.tumblr.com/a49ada6ae7aba8e0910199107ee58df7/tumblr_n6etg4m9vS1swjueno1_500.gif]' width='200'>
+## realShinoa
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='400'>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realShinoa]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realShinoa)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **realShinoa/realShinoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
