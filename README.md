@@ -1,7 +1,7 @@
 ### realShinoa
 <img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="200">
 
-![](https://komarev.com/ghpvc/?username=realShinoa&color=dc143c)
+![](https://komarev.com/ghpvc/?username=realShinoa&color=lightgrey)
 ```javascript
 const junella = {
     pronouns: "she" | "her",
