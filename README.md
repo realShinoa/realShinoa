@@ -1,3 +1,3 @@
 ### realShinoa
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realShinoa)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github.com/realShinoa/github-stats/blob/master/generated/languages.svg)
 
